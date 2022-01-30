@@ -1,0 +1,1 @@
+extern void balance ( double speed );
